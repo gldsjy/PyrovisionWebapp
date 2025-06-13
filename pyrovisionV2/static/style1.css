@@ -47,7 +47,7 @@ body{
   font-weight: bold;
 }
 #power-button{
-  background-color: #F47334;
+  background-color: #808080;
   color: white;
   font-weight: bold;
   border-radius: 20px;
@@ -56,7 +56,7 @@ body{
   max-width: 320px;
 }
 #spray-button{
-  background-color: #f6a427;
+  background-color: #808080;
   color: white;
   font-weight: bold;
   border-radius: 20px;
